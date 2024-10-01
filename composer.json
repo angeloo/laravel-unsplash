@@ -45,7 +45,5 @@
     "support": {
         "issues": "https://github.com/xchimx/laravel-unsplash/issues",
         "source": "https://github.com/xchimx/laravel-unsplash"
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
